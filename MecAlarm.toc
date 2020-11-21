@@ -1,0 +1,7 @@
+## Interface: 20400
+## Title: MecAlarm
+## Author: Mec of Karazhan TBC
+init.lua
+utils.lua
+
+BossModules\load_boss_modules.xml
