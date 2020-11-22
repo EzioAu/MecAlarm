@@ -16,7 +16,10 @@ Currently, it does the following:
 
 # Installation
 
-Go to https://github.com/MecAtlantiss/MecAlarm/releases to download the latest release. Once downloaded, extract the addon's folder and place it into the Interfaces/Addons folder of your WoW installation.
+1. Go to https://github.com/MecAtlantiss/MecAlarm/releases/latest to download the latest release.
+2. Exact the "MecAlarm-X.X.X" folder.
+3. **IMPORTANT**: Rename it from "MecAlarm-X.X.X" to just "MecAlarm".
+4. Place this folder into the Interface/Addons folder of your WoW installation.
 
 # Known bugs
 
